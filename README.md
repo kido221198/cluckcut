@@ -1,4 +1,4 @@
-# yolov8 <sup><sup><sub>(by Henry)</sub></sup></sup>
+# Segmentation Training Datasets framework 
 
 Preliminary:
 - Install Segment Anything:
